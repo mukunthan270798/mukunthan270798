@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mukunthan270798, you can call me Mukunthan
+- ✨ Aspiring Data Engineer, curious to reveal the story concealed inside the data
 - 👀 I’m interested in Data Science, Data Engineering
-- 🌱 I’m currently learning Apache Spark
+- 🌱 Google Certified Professional Data Engineer
 - 💞️ I’m looking to collaborate on Data Engineering projects
 - 📫 How to reach me:
 - mail: mukunthan270798@gmail.com
